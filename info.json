@@ -1,0 +1,15 @@
+{
+  "name": "OnlyCoin",
+  "symbol": "ONLY",
+  "address": "0xC0912c990fe376Bc74776b79BAf28456dAdDC055",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/Dr-PampersMuffin/token-assets/main/0xC0912c990fe376Bc74776b79BAf28456dAdDC055/logo.png",
+  "website": "https://dr-pampersmuffin.github.io/onlycoinsite",
+  "description": "OnlyCoin is a decentralized token empowering content creators through freedom and community rewards.",
+  "tags": [
+    "onlycoin",
+    "bep20",
+    "defi"
+  ]
+}
